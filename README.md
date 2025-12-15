@@ -1,0 +1,2 @@
+# Medical CT Image Reconstruction
+The Project focuses on reconstructing high-quality medical CT Images from their respective Sinograms using Deep Learning techniques. This work was carried out as part of my Research Internship at CSIR-CEERI (May-July 2025). The models were fine-tuned for accuracy and efficiency, reaching metrics of around 37 PSNR and 0.97 SSIM. Models were initially built to reconstruct 64x64, and later scaled up to reconstruct 256x256 images, maintaining high reconstruction quality.
